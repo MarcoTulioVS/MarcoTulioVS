@@ -5,7 +5,6 @@
 - 👨‍🎓 Formado em Ciência da Computação.
 - 🤵 Estou em busca de emprego. 
 
-Possuo conhecimento de mais de 3 anos em unity e com a linguagem C#.
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Unity-Light.svg">

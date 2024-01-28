@@ -6,7 +6,11 @@
 - 🤵 Estou em busca de emprego. 
 
 Possuo conhecimento de mais de 3 anos em unity e com a linguagem C#.
-
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Unity-Light.svg">
+  <img align="right" height="150" style="border-radius:50px;"
+</div>
 
 
 <br>
@@ -20,7 +24,4 @@ Possuo conhecimento de mais de 3 anos em unity e com a linguagem C#.
   
 </div>
 <br><br>
-<div>
-  <a href="https://beacons.ai/MarcoTulioVS">
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=MarcoTulioVS&theme=dark&show_icons=true">
-</div>
+
